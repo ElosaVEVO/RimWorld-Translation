@@ -12,7 +12,7 @@ Jeśli chcesz pomóc pisz śmiało.
 * Słówka - dotyczy to tego co wyżej, aby powyższe generowane teksty miały sens, słówka z folderu "strings" muszą być poprawne (czasownik to czasownik, przymiotnik to przymiotnik itp, a nie tłumaczone losowo na odwal się)
 
 # Working crew 
-* piotrulos  
+* ElosaVEVO
 
 # Past project crew (last year)
 * Nika "Nalthe" Borto [www.RimWorldPolska.pl]
@@ -29,4 +29,5 @@ Jeśli chcesz pomóc pisz śmiało.
 * Marcin WMP Janowski
 * Karol Pieniący
 * Neone
+* piotrulos
 ...and others!
